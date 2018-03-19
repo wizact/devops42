@@ -17,7 +17,7 @@ title: DevOps42
 email: amir.mohtasebi@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Hitchhiker's guide to the DevOps.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/devops42" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: amirmohtasebi
 github_username:  wizact
