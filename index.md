@@ -7,6 +7,6 @@ layout: home
 {% assign sorted_pages = site.pages | sort:"order" %}
 {% for node in sorted_pages %}
 {% if node.order > 0 %}
-<li><a href="{{node.url}}">{{node.title}}</a></li>
+<li><a href="{{site.baseurl}}/{{node.url}}">{{node.title}}</a></li>
 {% endif %}
 {% endfor %}
