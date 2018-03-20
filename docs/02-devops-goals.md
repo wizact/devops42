@@ -2,7 +2,7 @@
 layout: post
 title: DevOps Goals
 published: true
-order: 020
+order: 200
 permalink: devops-goals.html
 ---
 The main goal of DevOps can be summarised as increasing **IT performance** through the followings<sup>[[1]]</sup>:

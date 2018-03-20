@@ -2,7 +2,8 @@
 layout: post
 title: High Trust Organisation Culture
 published: true
-order: 060
+order: 206
+sub: 1
 permalink: high-trust-organisation-culture.html
 ---
 
