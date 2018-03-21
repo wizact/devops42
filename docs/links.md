@@ -9,3 +9,4 @@ permalink: links.html
 - [enterprise devops - 2015, April](https://www.computer.org/cms/rock-stars/devops/humble.pdf)
 - [Continuous Delivery Talks](https://continuousdelivery.com/about/talks/)
 - [Continuous Integration - Martin Fowler](https://martinfowler.com/articles/continuousIntegration.html)
+- [Lean Enterprise Book Excerpt](https://s3-us-west-1.amazonaws.com/leanenterprise/lean_enterprise_excerpt.pdf)
