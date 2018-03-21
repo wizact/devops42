@@ -2,7 +2,7 @@
 layout: post
 title: Mission Control
 published: true
-order: 402
+order: 104
 sub: 1
 permalink: mission-control.html
 ---

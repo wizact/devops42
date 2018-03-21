@@ -2,15 +2,19 @@
 layout: post
 title: DevOps Goals
 published: true
-order: 200
+order: 101
+sub: 1
 permalink: devops-goals.html
 ---
 The main goal of DevOps can be summarised as increasing **IT performance** through the followings<sup>[[1]]</sup>:
 
-- Increase deployment frequency
-- Decrease lead time
-- Faster recovery time
-- Lower failure rate
+
+- Throughput
+    - Increase deployment frequency
+    - Decrease lead time
+- Stability
+    - Faster recovery time
+    - Lower failure rate
 
 Based on the above study, the top predicators of IT performance are:
 
