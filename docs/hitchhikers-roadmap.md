@@ -45,7 +45,8 @@ Phase 3
 
 Phase 4
 ------------------------------------
-- Configuration Management & Auditing
+- Configuration-as-code,
+- Auditing
    - Config-as-code
    - Audit changes on services
 - Alerting
@@ -67,3 +68,4 @@ Phase 7
    - Incident Response Planning
    - Chaos Troop
    - Graceful fail-over
+- Test Data Creation
